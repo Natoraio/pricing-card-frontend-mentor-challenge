@@ -83,6 +83,13 @@ button{
   font-size: 16px;
 }
 
+button:hover{
+  cursor: pointer;
+  background-color:hsl(71, 100%, 40%);
+  transform: scale(1.01);
+}
+
+
 .right{
   display: inline-block;
   width:50%;
